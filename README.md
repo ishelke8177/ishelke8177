@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishelke8177
 - 👀 I’m interested in BackEnd development.
-- 🌱 I’m currently learning BackEnd development.
+- 🌱 I’m currently learning Full Stack development.
 - 💞️ I’m looking to collaborate on a WebDev project.
 - 📫 How to reach me shelkeishwar300@gmail.com
 
