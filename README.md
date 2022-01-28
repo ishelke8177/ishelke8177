@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Dev**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://nifty-mestorf-121c70.netlify.app/)**
+- 👨‍💻 Check out my portfolio **[My Portfolio](https://nifty-mestorf-121c70.netlify.app/)**
 
 - 📫 How to reach me **shelkeishwar300@gmail.com**
   
